@@ -1,2 +1,1 @@
-# Elevate-Labs-Task-1
-In this program, I developed a Calculator program by using the methods named addition, subtraction, multiplication, division. Here, I used a Scanner class to get the inputs from the user to perform these arithmetic operations and use the double data type to store the values. Here I used a while loop for the user to perform operation as the number of time they want to execute. The user is insist to enter the number from 1 to 4. In this program, Switch case help to checks for the number from 1 to 4 and return the appropriate result. If the number "5" is entered, then the program will be "Exit"
+
